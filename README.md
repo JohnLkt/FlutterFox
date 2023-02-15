@@ -1,6 +1,6 @@
 # flutterfox
 
-A new Flutter project.
+A basic manga reader made using flutter.
 
 ## Getting Started
 
